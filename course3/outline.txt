@@ -1,0 +1,2 @@
+1. regular expression
+2. open file/ read file
