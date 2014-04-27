@@ -7,4 +7,8 @@ attendees_lst =[
   [:Zina, 300],
 ]
 
+attendees_lst.each do | data |
+  p data
+end
+
 #find mike salary 
