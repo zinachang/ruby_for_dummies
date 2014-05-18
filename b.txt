@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 wwwasdf
 
 oit
+=======
+Change 3
+>>>>>>> remotes/upstream/master/master
